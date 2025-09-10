@@ -1,0 +1,33 @@
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code (caso use)
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
