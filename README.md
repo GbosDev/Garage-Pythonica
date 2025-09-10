@@ -26,14 +26,15 @@ carro2 = Carro(
 carro2.mostrar_informacoes()
 
 - Saída esperada:
-  INFORMAÇÕES DO CARRO
+  
+INFORMAÇÕES DO CARRO
 =====================
 Modelo: Ferrari SF90 Stradale
 Ano: 2023
 Cor: Vermelho Rosso Corsa
 
-INFORMAÇÕES DO MOTOR
-=====================
+INFORMAÇÃO DO MOTOR
+===================
 Cilindros: 8(V8 + híbrido)
 Potência: 1000 cv
 Tipo de combustível: Gasolina
